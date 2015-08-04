@@ -205,7 +205,7 @@ TARGET_USERIMAGES_USE_F2FS := true
 
 ifeq ($(HOST_OS),linux)
   ifeq ($(WITH_DEXPREOPT),)
-    WITH_DEXPREOPT := true
+    WITH_DEXPREOPT := false
     WITH_DEXPREOPT_BOOT_IMG_ONLY := false
   endif
 endif
