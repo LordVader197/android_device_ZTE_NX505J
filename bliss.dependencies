@@ -6,6 +6,18 @@
     "revision": "cm-12.1"
   },
   {
+    "repository": "PaoloW8/android_kernel_ZTE_NX505J",
+    "target_path": "kernel/ZTE/NX505J",
+    "remote": "github",
+    "revision": "master"
+  },
+  {
+    "repository": "PaoloW8/android_vendor_ZTE/NX505J",
+    "target_path": "vendor/ZTE/NX505J",
+    "remote": "github",
+    "revision": "master"
+  },
+  {
     "repository": "nx507j-dev/arm-cortex_a15-linux-gnueabihf-linaro-4.9",
     "target_path": "prebuilts/gcc/linux-x86/arm/arm-cortex_a15-linux-gnueabihf-linaro_4.9",
     "remote": "github",
