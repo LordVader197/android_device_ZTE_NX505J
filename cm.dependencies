@@ -18,7 +18,7 @@
     "revision": "master"
   },
   {
-    "repository": "PaoloW8/android_vendor_ZTE/NX505J",
+    "repository": "PaoloW8/android_vendor_ZTE_NX505J",
     "target_path": "vendor/ZTE/NX505J",
     "remote": "github",
     "revision": "master"
